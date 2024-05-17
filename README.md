@@ -1,6 +1,7 @@
 <h1>Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /></h1>
   Im Alejandro:
-
+  </br></br>
+  
 - 🔭 I’m working as Mid Salesforce Developer <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="Salesforce" width="20"/>
 - 🌱 I’m currently learning Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="20"/> and  Godot <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" width="20"/>
 - 😄 Pronouns: He/him
